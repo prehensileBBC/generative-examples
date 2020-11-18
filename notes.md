@@ -30,5 +30,5 @@ Notes, references and further reading for a talk given remotely for the UAL Crea
 ### GPT-2 & 3
 - [OpenAI’s new language AI is available to try yourself - Vox](https://www.vox.com/2019/5/15/18623134/openai-language-ai-gpt2-poetry-try-it)
 - https://github.com/nshepperd/gpt-2/tree/finetuning
--[Write With Transformer: GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
+- [Write With Transformer: GPT-2](https://transformer.huggingface.co/doc/gpt2-large)
 - [Janelle Shane - AI Weirdness](https://aiweirdness.com/)
