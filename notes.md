@@ -17,6 +17,7 @@ Notes, references and further reading for a talk given remotely for the UAL Crea
 ### Tracery
 - https://tracery.io/
 - https://twitter.com/str_voyage
+- [Cheap Bots, Done Quick!](https://cheapbotsdonequick.com/)
 
 ### Markov chains
 - https://github.com/prehensile/generative-examples/tree/main/markov
